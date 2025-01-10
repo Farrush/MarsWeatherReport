@@ -2,7 +2,7 @@
 
 Este é um mini-projeto Front-End desenvolvido em **React**, que consome a API da NASA para monitorar a temperatura em Marte. 
 
-🔗 **[Teste agora!](https://seu-projeto.vercel.app/)**  
+🔗 **[Teste agora!](https://mars-weather-report.vercel.app)**  
 
 ## Funcionalidades
 
